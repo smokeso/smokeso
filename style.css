@@ -1,0 +1,25 @@
+body {
+    background-image: url(Images/BackgroundPNG.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+@font-face {
+    src: url(fonts/nunito.ttf);
+    font-family: Nunito;
+}
+
+#TitleFrame1{
+    color: rgb(255, 255, 255);
+    font-family: Nunito;
+    font-weight: lighter;
+}
+
+#p1{
+    color: rgb(255, 255, 255);
+    font-family: Nunito;
+    font-weight: lighter;
+}
+    
